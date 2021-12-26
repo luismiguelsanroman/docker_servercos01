@@ -1,0 +1,7 @@
+git init
+git config --global user.email lmsrgb@gmail.com
+git config  --global user.name luismiguelsanroman
+git status 
+git config credential.helper store
+git clone https://github.com/luismiguelsanroman/docker_servercos01.git
+git push https://github.com/luismiguelsanroman/docker_servercos01.git
